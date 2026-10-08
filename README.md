@@ -6,6 +6,6 @@ Lista de exercicios em Dart.
 
 ## Integrantes
 
-- Vitoria Maira
-- Victor Felipe
-- Laura Brito
+- Vitoria Maira Evangelista Ribeiro
+- Victor Felipe Santos Melo
+- Laura de Jesus Lima Brito
